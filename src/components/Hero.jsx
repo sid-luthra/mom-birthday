@@ -1,4 +1,3 @@
-import { Parallax } from "react-scroll-parallax";
 import ParallaxText from "./ParallaxText";
 
 export default function Hero() {
